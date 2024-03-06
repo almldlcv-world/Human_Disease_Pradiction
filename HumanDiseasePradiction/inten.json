@@ -1,0 +1,778 @@
+{
+	"intents": 
+	[
+	{
+    "tag": "Fungal infection",
+    "patterns": [
+        "skin_rash",
+        "dischromic _patches",
+        "itching",
+        "nodal_skin_eruptions"
+    ],
+    "responses": [
+        "Fungal infection",
+        "bath twice",
+        "use detol or neem in bathing water",
+        "keep infected area dry",
+        "use clean cloths"
+    ]
+},{
+    "tag": "Impetigo",
+    "patterns": [
+        "high_fever",
+        "blister",
+        "red_sore_around_nose",
+        "yellow_crust_ooze",
+        "skin_rash"
+    ],
+    "responses": [
+        "Impetigo",
+        "soak affected area in warm water",
+        "use antibiotics",
+        "remove scabs with wet compressed cloth",
+        "consult doctor"
+    ]
+},{
+    "tag": "Gastroenteritis",
+    "patterns": [
+        "diarrhoea",
+        "vomiting",
+        "dehydration",
+        "sunken_eyes"
+    ],
+    "responses": [
+        "Gastroenteritis",
+        "stop eating solid food for while",
+        "try taking small sips of water",
+        "rest",
+        "ease back into eating"
+    ]
+},{
+    "tag": "Abdominal aortic aneurysm",
+    "patterns": [
+        "pulsating_feeling_in_stomach",
+        "persistent_back_pain",
+        "persistent_abdominal_pain"
+    ],
+    "responses": [
+        "Fungal infection",
+        "bath twice",
+        "use detol or neem in bathing water",
+        "keep infected area dry",
+        "use clean cloths"
+    ]
+},{
+    "tag": "Acne",
+    "patterns": [
+        "blackheads",
+        "whiteheads",
+        "papules",
+        "pustules",
+        "nodules",
+        "cysts"
+    ],
+    "responses": [
+        "Fungal infection",
+        "bath twice",
+        "use detol or neem in bathing water",
+        "keep infected area dry",
+        "use clean cloths"
+    ]
+},{
+    "tag": "Acute cholecystitis",
+    "patterns": [
+        "sudden_sharp_pain_upper_right_tummy",
+        "high_fever",
+        "nausea",
+        "vomiting",
+        "sweating",
+        "loss_of_appetite",
+        "yellowing_skin",
+        "whites_eyes",
+        "bulge_abdomen"
+    ],
+    "responses": [
+        "Fungal infection",
+        "bath twice",
+        "use detol or neem in bathing water",
+        "keep infected area dry",
+        "use clean cloths"
+    ]  
+},{
+    "tag": "Acute lymphoblastic leukaemia",
+    "patterns": [
+        "pale_skin",
+        "tiredness",
+        "breathlessness",
+        "repeated_infections",
+        "frequent_bleeding"
+    ],
+    "responses": [
+        "Fungal infection",
+        "bath twice",
+        "use detol or neem in bathing water",
+        "keep infected area dry",
+        "use clean cloths"
+    ]
+},{
+    "tag": "Acute lymphoblastic leukaemia children",
+    "patterns": [
+        "tired_lethargic",
+        "long_bleeding",
+        "infections",
+        "bruises"
+    ],
+    "responses": [
+        "Fungal infection",
+        "bath twice",
+        "use detol or neem in bathing water",
+        "keep infected area dry",
+        "use clean cloths"
+    ]
+},{
+    "tag": "Acute lymphoblastic leukaemia Teenagers",
+    "patterns": [
+        "looking_paler",
+        "feeling_tired",
+        "bruises",
+        "infections",
+        "aches",
+        "pains",
+        "swollen_glands",
+        "fever",
+        "sweats",
+        "headaches",
+        "visual_disturbance",
+        "feeling_unwell"
+    ],
+    "responses": [
+        "Fungal infection",
+        "bath twice",
+        "use detol or neem in bathing water",
+        "keep infected area dry",
+        "use clean cloths"
+    ]
+},{
+    "tag": "Acute myeloid leukaemia",
+    "patterns": [
+        "pale_skin",
+        "tiredness",
+        "breathlessness",
+        "high_temperature",
+        "excessive_sweating",
+        "weight_loss",
+        "frequent_infections",
+        "frequent_bleeding",
+        "nosebleeds",
+        "bruised_skin",
+        "red_purple_skin",
+        "bone_joint_pain",
+        "discomfort_tummy"
+    ],
+    "responses": [
+        "Fungal infection",
+        "bath twice",
+        "use detol or neem in bathing water",
+        "keep infected area dry",
+        "use clean cloths"
+    ]
+},{
+    "tag": "Acute pancreatitis",
+    "patterns": [
+        "tummy_pain",
+        "fever",
+        "nausea",
+        "vomiting",
+        "loss_appetite",
+        "yellow_skin",
+        "white_eyes",
+        "bulge_abdomen"
+    ],
+    "responses": [
+        "Fungal infection",
+        "bath twice",
+        "use detol or neem in bathing water",
+        "keep infected area dry",
+        "use clean cloths"
+    ]
+},{
+    "tag": "Addison's disease",
+    "patterns": [
+        "fatigue",
+        "lethargy",
+        "muscle_weakness",
+        "irritability",
+        "weight_loss",
+        "increased_thirst",
+        "craving_salty_foods",
+        "vomiting",
+        "feeling_sick",
+        "low_blood_pressure",
+        "diarrhoea",
+        "abdominal", 
+        "joint_back_pain",
+        "muscle_cramps",
+        "depression",
+        "brownish_skin",
+        "lack_interest_sex"
+    ],
+    "responses": [
+        "Fungal infection",
+        "bath twice",
+        "use detol or neem in bathing water",
+        "keep infected area dry",
+        "use clean cloths"
+    ]
+},{
+    "tag": "Alcohol-related liver disease",
+    "patterns": [
+        "abdominal_pain",
+        "loss_appetite",
+        "fatigue",
+        "feeling_sick",
+        "diarrhoea",
+        "generally_unwell",
+        "yellow_skin",
+        "white_eyes",
+        "fever",
+        "itchy_skin",
+        "hair_loss",
+        "clubbed_fingers",
+        "blotchy_red_palms",
+        "weight_loss",
+        "weakness",
+        "muscle_wasting",
+        "blood_black_vomiting",
+        "memory_problems", 
+        "trouble_sleeping"
+    ],
+    "responses": [
+        "Fungal infection",
+        "bath twice",
+        "use detol or neem in bathing water",
+        "keep infected area dry",
+        "use clean cloths"
+    ]
+},{
+    "tag": "Allergic rhinitis",
+    "patterns": [
+        "sneezing", 
+        "itchiness",
+        "runny_nose",
+        "sleep_problem"
+    ],
+    "responses": [
+        "Fungal infection",
+        "bath twice",
+        "use detol or neem in bathing water",
+        "keep infected area dry",
+        "use clean cloths"
+    ]
+},{
+    "tag": "Allergies",
+    "patterns": [
+        "anaphylaxis",
+        "runny_nose",
+        "sneezing",
+        "itchy",
+        "watering_eyes",
+        "chest_tightness",
+        "swollen_lips", 
+        "tongue",
+        "tummy_pain",
+        "feeling_sick",
+        "vomiting",
+        "cracked_skin"
+    ],
+    "responses": [
+        "Fungal infection",
+        "bath twice",
+        "use detol or neem in bathing water",
+        "keep infected area dry",
+        "use clean cloths"
+    ]
+},{
+    "tag": "Alzheimer's disease",
+    "patterns": [
+        "speech_problems",
+        "disturbed_sleep",
+        "mood_changes",
+        "hallucinations",
+        "weight_loss ",
+        "memory_loss",
+        "eating_difficulty"
+    ],
+    "responses": [
+        "Fungal infection",
+        "bath twice",
+        "use detol or neem in bathing water",
+        "keep infected area dry",
+        "use clean cloths"
+    ]
+},{
+    "tag": "Anaphylaxis",
+    "patterns": [
+        "itchy_skin",
+        "red_skin_rash",
+        "swollen_eyes_lips",
+        "faint",
+        "swelling_mouth",
+        "abdominal_pain",
+        "vomiting",
+        "collapse" 
+    ],
+    "responses": [
+        "Fungal infection",
+        "bath twice",
+        "use detol or neem in bathing water",
+        "keep infected area dry",
+        "use clean cloths"
+    ]
+},{
+    "tag": "Angioedema",
+    "patterns": [
+        "swelling_eyes",
+        "swelling_lips",
+        "swelling_genitals",
+        "swelling_hands",
+        "swelling_feet"
+    ],
+    "responses": [
+        "Fungal infection",
+        "bath twice",
+        "use detol or neem in bathing water",
+        "keep infected area dry",
+        "use clean cloths"
+    ]
+},{
+    "tag": "Ankylosing spondylitis",
+    "patterns": [
+        "Back_pain",
+        "stiffness",
+        "joint_pain",
+        "swelling",
+        "shin_bone_pain",
+        "feel_tired",
+        "lacking_energy"
+    ],
+    "responses": [
+        "Fungal infection",
+        "bath twice",
+        "use detol or neem in bathing water",
+        "keep infected area dry",
+        "use clean cloths"
+    ]
+},{
+    "tag": "Anxiety",
+    "patterns": [
+        "dizziness",
+        "tiredness",
+        "irregular_heartbeat",
+        "muscle_aches",
+        "tension",
+        "dry_mouth",
+        "excessive_sweating",
+        "stomach_ache",
+        "feeling_sick",
+        "headache",
+        "restlessness",
+        "concentrating_difficulty",
+        "irritability"
+    ],
+    "responses": [
+        "Fungal infection",
+        "bath twice",
+        "use detol or neem in bathing water",
+        "keep infected area dry",
+        "use clean cloths"
+    ]
+},{
+    "tag": "Anxiety in children",
+    "patterns": [
+        "concentrate_problem",
+        " bad_dreams",
+        "eating_problem",
+        "negative thoughts",
+        "feeling tense",
+        "always crying",
+        "irritability"
+    ],
+    "responses": [
+        "Fungal infection",
+        "bath twice",
+        "use detol or neem in bathing water",
+        "keep infected area dry",
+        "use clean cloths"
+    ]
+},{
+    "tag": "Appendicitis",
+    "patterns": [
+        "feeling_sick",
+        "being_sick",
+        "loss_appetite",
+        "diarrhoea",
+        "fever",
+        "flushed_face"
+    ],
+    "responses": [
+        "Fungal infection",
+        "bath twice",
+        "use detol or neem in bathing water",
+        "keep infected area dry",
+        "use clean cloths"
+    ]
+},{
+    "tag": "Arthritis",
+    "patterns": [
+        "joint_pain", 
+        "tenderness",
+        "stiffness",
+        "joints_inflammation",
+        "red_skin",
+        "weakness",
+        "muscle_wasting"
+    ],
+    "responses": [
+        "Fungal infection",
+        "bath twice",
+        "use detol or neem in bathing water",
+        "keep infected area dry",
+        "use clean cloths"
+    ]
+},{
+    "tag": "Asbestosis",
+    "patterns": [
+        "shortness_breath",
+        "persistent_cough",
+        "wheezing",
+        "fatigue",
+        "chest_pain",
+        "clubbed_fingertips"
+    ],
+    "responses": [
+        "Fungal infection",
+        "bath twice",
+        "use detol or neem in bathing water",
+        "keep infected area dry",
+        "use clean cloths"
+    ]
+},{
+    "tag": "Asthma",
+    "patterns": [
+        "wheezing",
+        "shortness_breath",
+        "tight_chest",
+        "coughing"
+    ],
+    "responses": [
+        "Fungal infection",
+        "bath twice",
+        "use detol or neem in bathing water",
+        "keep infected area dry",
+        "use clean cloths"
+    ]
+},{
+    "tag": "Atopic eczema",
+    "patterns": [
+        "worse_eczema",
+        "skin_fluid_oozing",
+        "yellow_crust_skin",
+        "yellowish-white _eczema",
+        "swollen_skin",
+        "fever",
+        "feeling_unwell"
+    ],
+    "responses": [
+        "Fungal infection",
+        "bath twice",
+        "use detol or neem in bathing water",
+        "keep infected area dry",
+        "use clean cloths"
+    ]
+},{
+    "tag": "Benign prostate enlargement",
+    "patterns": [
+        "difficult_urinating",
+        "weaken_flow_urine",
+        "blooddy_urine"
+    ],
+    "responses": [
+        "Fungal infection",
+        "bath twice",
+        "use detol or neem in bathing water",
+        "keep infected area dry",
+        "use clean cloths"
+    ]
+},{
+    "tag": "Binge eating",
+    "patterns": [
+        "faster_eating",
+        "eatting_until_feel_uncomfortably",
+        "eatting_large_amount",
+        "eatting_alone",
+        "feelings_guilt",
+        "disgust_afterwards"
+    ],
+    "responses": [
+        "Fungal infection",
+        "bath twice",
+        "use detol or neem in bathing water",
+        "keep infected area dry",
+        "use clean cloths"
+    ]
+},{
+    "tag": "Bipolar disorder",
+    "patterns": [
+        "feeling_sad",
+        "lacking_energy",
+        "difficulty_concentrating",
+        "loss_interest",
+        "worthlessness",
+        "feeling_guilt",
+        "feeling_pessimistic",
+        "self-doubt",
+        "sleeping_difficulty",
+        "suicidal_thoughts",
+        "feeling_very_happy",
+        "talking_quickly",
+        "feeling_full_energy",
+        "feeling_self-important",
+        "easily_distracted",
+        "easily_irritated",
+        "not_eating"
+    ],
+    "responses": [
+        "Fungal infection",
+        "bath twice",
+        "use detol or neem in bathing water",
+        "keep infected area dry",
+        "use clean cloths"
+    ]
+},{
+    "tag": "Sepsis",
+    "patterns": [
+        "high_temperature",
+        "breathing_difficulty",
+        "grunting_with_breath",
+        "struggling_to_speak",
+        "no_interest_in_feeding",
+        "irritableness",
+        "unresponsive",
+        "stiffness"
+    ],
+    "responses": [
+        "Fungal infection",
+        "bath twice",
+        "use detol or neem in bathing water",
+        "keep infected area dry",
+        "use clean cloths"
+    ]
+},{
+    "tag": "Bone cancer",
+    "patterns": [
+        "Bone_pain",
+        "fever",
+        "weight_loss",
+        "sweating",
+        ""
+    ],
+    "responses": [
+        "Fungal infection",
+        "bath twice",
+        "use detol or neem in bathing water",
+        "keep infected area dry",
+        "use clean cloths"
+    ]
+},{
+    "tag": "Bronchial Asthma",
+    "patterns": [
+        "high_fever",
+        "breathlessness",
+        "fatigue",
+        "mucoid_sputum",
+        "cough",
+        "family_history"
+    ],
+    "responses": [
+        "Bronchial Asthma",
+        "switch to loose cloothing",
+        "take deep breaths",
+        "get away from trigger",
+        "seek help"
+    ]
+},{
+    "tag": "Hypertension ",
+    "patterns": [
+        "lack_of_concentration",
+        "headache",
+        "chest_pain",
+        "dizziness",
+        "loss_of_balance"
+    ],
+    "responses": [
+        "Hypertension ",
+        "meditation",
+        "salt baths",
+        "reduce stress",
+        "get proper sleep"
+    ]
+},{
+    "tag": "Migraine",
+    "patterns": [
+        "indigestion",
+        "stiff_neck",
+        "irritability",
+        "headache",
+        "acidity",
+        "excessive_hunger",
+        "blurred_and_distorted_vision",
+        "depression",
+        "visual_disturbances"
+    ],
+    "responses": [
+        "Migraine",
+        "meditation",
+        "reduce stress",
+        "use poloroid glasses in sun",
+        "consult doctor"
+    ]
+},{
+    "tag": "Cervical spondylosis",
+    "patterns": [
+        "weakness_in_limbs",
+        "back_pain",
+        "dizziness",
+        "neck_pain",
+        "loss_of_balance"
+    ],
+    "responses": [
+        "Cervical spondylosis",
+        "use heating pad or cold pack",
+        "exercise",
+        "take otc pain reliver",
+        "consult doctor"
+    ]
+},{
+    "tag": "Paralysis (brain hemorrhage)",
+    "patterns": [
+        "headache",
+        "vomiting",
+        "weakness_of_one_body_side",
+        "altered_sensorium"
+    ],
+    "responses": [
+        "Paralysis (brain hemorrhage)",
+        "massage",
+        "eat healthy",
+        "exercise",
+        "consult doctor"
+    ]
+},{
+    "tag": "Jaundice",
+    "patterns": [
+        "vomiting",
+        "high_fever",
+        "fatigue",
+        "yellowish_skin",
+        "dark_urine",
+        "abdominal_pain",
+        "weight_loss",
+        "itching"
+    ],
+    "responses": [
+        "Jaundice",
+        "drink plenty of water",
+        "consume milk thistle",
+        "eat fruits and high fiberous food",
+        "medication"
+    ]
+},{
+    "tag": "Malaria",
+    "patterns": [
+        "vomiting",
+        "high_fever",
+        "nausea",
+        "sweating",
+        "headache",
+        "muscle_pain",
+        "diarrhoea",
+        "chills"
+    ],
+    "responses": [
+        "Malaria",
+        "Consult nearest hospital",
+        "avoid oily food",
+        "avoid non veg food",
+        "keep mosquitos out"
+    ]
+},{
+    "tag": "Chicken pox",
+    "patterns": [
+        "high_fever",
+        "lethargy",
+        "fatigue",
+        "headache",
+        "loss_of_appetite",
+        "mild_fever",
+        "red_spots_over_body",
+        "malaise",
+        "skin_rash",
+        "swelled_lymph_nodes",
+        "itching"
+    ],
+    "responses": [
+        "Chicken pox",
+        "use neem in bathing ",
+        "consume neem leaves",
+        "take vaccine",
+        "avoid public places"
+    ]
+},{
+    "tag": "Dengue",
+    "patterns": [
+        "vomiting",
+        "high_fever",
+        "joint_pain",
+        "nausea",
+        "pain_behind_the_eyes",
+        "fatigue",
+        "headache",
+        "back_pain",
+        "muscle_pain",
+        "loss_of_appetite",
+        "red_spots_over_body",
+        "malaise",
+        "skin_rash",
+        "chills"
+    ],
+    "responses": [
+        "Dengue",
+        "drink papaya leaf juice",
+        "avoid fatty spicy food",
+        "keep mosquitos away",
+        "keep hydrated"
+    ]
+},{
+    "tag": "Typhoid",
+    "patterns": [
+        "vomiting",
+        "high_fever",
+        "nausea",
+        "fatigue",
+        "headache",
+        "abdominal_pain",
+        "belly_pain",
+        "constipation",
+        "toxic_look_(typhos)",
+        "diarrhoea",
+        "chills"
+    ],
+    "responses": [
+        "Typhoid",
+        "eat high calorie vegitables",
+        "antiboitic therapy",
+        "consult doctor",
+        "medication"
+    ]
+}
+]}

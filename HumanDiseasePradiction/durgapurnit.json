@@ -1,0 +1,1893 @@
+{
+	"intents": 
+	[
+    { 
+    "tag": "Scabies", 
+    "patterns": [
+        "itching", 
+        "rash",
+        "warmer_skin"
+    ]
+},{
+    "tag": "Abdominal aortic aneurysm",
+    "patterns": [
+        "pulsating_feeling_in_stomach",
+        "persistent_back_pain",
+        "persistent_abdominal_pain"
+    ],
+    "responses": [
+        "Fungal infection",
+        "bath twice",
+        "use detol or neem in bathing water",
+        "keep infected area dry",
+        "use clean cloths"
+    ]
+},{
+    "tag": "Acne",
+    "patterns": [
+        "blackheads",
+        "whiteheads",
+        "papules",
+        "pustules",
+        "nodules",
+        "cysts"
+    ],
+    "responses": [
+        "Fungal infection",
+        "bath twice",
+        "use detol or neem in bathing water",
+        "keep infected area dry",
+        "use clean cloths"
+    ]
+},{
+    "tag": "Acute cholecystitis",
+    "patterns": [
+        "sudden_sharp_pain_upper_right_tummy",
+        "high_fever",
+        "nausea",
+        "vomiting",
+        "sweating",
+        "loss_of_appetite",
+        "yellowing_skin",
+        "whites_eyes",
+        "bulge_abdomen"
+    ],
+    "responses": [
+        "Fungal infection",
+        "bath twice",
+        "use detol or neem in bathing water",
+        "keep infected area dry",
+        "use clean cloths"
+    ]  
+},{
+    "tag": "Acute lymphoblastic leukaemia",
+    "patterns": [
+        "pale_skin",
+        "tiredness",
+        "breathlessness",
+        "repeated_infections",
+        "frequent_bleeding"
+    ],
+    "responses": [
+        "Fungal infection",
+        "bath twice",
+        "use detol or neem in bathing water",
+        "keep infected area dry",
+        "use clean cloths"
+    ]
+},{
+    "tag": "Acute lymphoblastic leukaemia children",
+    "patterns": [
+        "tired_lethargic",
+        "long_bleeding",
+        "infections",
+        "bruises"
+    ],
+    "responses": [
+        "Fungal infection",
+        "bath twice",
+        "use detol or neem in bathing water",
+        "keep infected area dry",
+        "use clean cloths"
+    ]
+},{
+    "tag": "Acute lymphoblastic leukaemia Teenagers",
+    "patterns": [
+        "looking_paler",
+        "feeling_tired",
+        "bruises",
+        "infections",
+        "aches",
+        "pains",
+        "swollen_glands",
+        "fever",
+        "sweats",
+        "headaches",
+        "visual_disturbance",
+        "feeling_unwell"
+
+    ],
+    "responses": [
+        "Fungal infection",
+        "bath twice",
+        "use detol or neem in bathing water",
+        "keep infected area dry",
+        "use clean cloths"
+    ]
+},{
+    "tag": "Acute myeloid leukaemia",
+    "patterns": [
+        "pale_skin",
+        "tiredness",
+        "breathlessness",
+        "high_temperature",
+        "excessive_sweating",
+        "weight_loss",
+        "frequent_infections",
+        "frequent_bleeding",
+        "nosebleeds",
+        "bruised_skin",
+        "red_purple_skin",
+        "bone_joint_pain",
+        "discomfort_tummy"
+    ],
+    "responses": [
+        "Fungal infection",
+        "bath twice",
+        "use detol or neem in bathing water",
+        "keep infected area dry",
+        "use clean cloths"
+    ]
+},{
+    "tag": "Acute pancreatitis",
+    "patterns": [
+        "tummy_pain",
+        "fever",
+        "nausea",
+        "vomiting",
+        "loss_appetite",
+        "yellow_skin",
+        "white_eyes",
+        "bulge_abdomen"
+    ],
+    "responses": [
+        "Fungal infection",
+        "bath twice",
+        "use detol or neem in bathing water",
+        "keep infected area dry",
+        "use clean cloths"
+    ]
+},{
+    "tag": "Addison's disease",
+    "patterns": [
+        "fatigue",
+        "lethargy",
+        "muscle_weakness",
+        "irritability",
+        "weight_loss",
+        "increased_thirst",
+        "craving_salty_foods",
+        "vomiting",
+        "feeling_sick",
+        "low_blood_pressure",
+        "diarrhoea",
+        "abdominal", 
+        "joint_back_pain",
+        "muscle_cramps",
+        "depression",
+        "brownish_skin",
+        "lack_interest_sex"
+    ],
+    "responses": [
+        "Fungal infection",
+        "bath twice",
+        "use detol or neem in bathing water",
+        "keep infected area dry",
+        "use clean cloths"
+    ]
+},{
+    "tag": "Alcohol-related liver disease",
+    "patterns": [
+        "abdominal_pain",
+        "loss_appetite",
+        "fatigue",
+        "feeling_sick",
+        "diarrhoea",
+        "generally_unwell",
+        "yellow_skin",
+        "white_eyes",
+        "fever",
+        "itchy_skin",
+        "hair_loss",
+        "clubbed_fingers",
+        "blotchy_red_palms",
+        "weight_loss",
+        "weakness",
+        "muscle_wasting",
+        "blood_black_vomiting",
+        "memory_problems", 
+        "trouble_sleeping"
+    ],
+    "responses": [
+        "Fungal infection",
+        "bath twice",
+        "use detol or neem in bathing water",
+        "keep infected area dry",
+        "use clean cloths"
+    ]
+},{
+    "tag": "Allergic rhinitis",
+    "patterns": [
+        "sneezing", 
+        "itchiness",
+        "runny_nose",
+        "sleep_problem"
+    ],
+    "responses": [
+        "Fungal infection",
+        "bath twice",
+        "use detol or neem in bathing water",
+        "keep infected area dry",
+        "use clean cloths"
+    ]
+},{
+    "tag": "Allergies",
+    "patterns": [
+        "anaphylaxis",
+        "runny_nose",
+        "sneezing",
+        "itchy",
+        "watering_eyes",
+        "chest_tightness",
+        "swollen_lips", 
+        "tongue",
+        "tummy_pain",
+        "feeling_sick",
+        "vomiting",
+        "cracked_skin"
+    ],
+    "responses": [
+        "Fungal infection",
+        "bath twice",
+        "use detol or neem in bathing water",
+        "keep infected area dry",
+        "use clean cloths"
+    ]
+},{
+    "tag": "Alzheimer's disease",
+    "patterns": [
+        "speech_problems",
+        "disturbed_sleep",
+        "mood_changes",
+        "hallucinations",
+        "weight_loss ",
+        "memory_loss",
+        "eating_difficulty"
+    ]
+},{
+    "tag": "Anaphylaxis",
+    "patterns": [
+        "itchy_skin",
+        "red_skin_rash",
+        "swollen_eyes_lips",
+        "faint",
+        "swelling_mouth",
+        "abdominal_pain",
+        "vomiting",
+        "collapse" 
+    ],
+    "responses": [
+        "Fungal infection",
+        "bath twice",
+        "use detol or neem in bathing water",
+        "keep infected area dry",
+        "use clean cloths"
+    ]
+},{
+    "tag": "Angioedema",
+    "patterns": [
+        "swelling_eyes",
+        "swelling_lips",
+        "swelling_genitals",
+        "swelling_hands",
+        "swelling_feet"
+    ],
+    "responses": [
+        "Fungal infection",
+        "bath twice",
+        "use detol or neem in bathing water",
+        "keep infected area dry",
+        "use clean cloths"
+    ]
+},{
+    "tag": "Ankylosing spondylitis",
+    "patterns": [
+        "Back_pain",
+        "stiffness",
+        "joint_pain",
+        "swelling",
+        "shin_bone_pain",
+        "feel_tired",
+        "lacking_energy"
+    ],
+    "responses": [
+        "Fungal infection",
+        "bath twice",
+        "use detol or neem in bathing water",
+        "keep infected area dry",
+        "use clean cloths"
+    ]
+},{
+    "tag": "Anxiety",
+    "patterns": [
+        "dizziness",
+        "tiredness",
+        "irregular_heartbeat",
+        "muscle_aches",
+        "tension",
+        "dry_mouth",
+        "excessive_sweating",
+        "stomach_ache",
+        "feeling_sick",
+        "headache",
+        "restlessness",
+        "concentrating_difficulty",
+        "irritability"
+    ],
+    "responses": [
+        "Fungal infection",
+        "bath twice",
+        "use detol or neem in bathing water",
+        "keep infected area dry",
+        "use clean cloths"
+    ]
+},{
+    "tag": "Anxiety in children",
+    "patterns": [
+        "concentrate_problem",
+        " bad_dreams",
+        "eating_problem",
+        "negative thoughts",
+        "feeling tense",
+        "always crying",
+        "irritability"
+    ],
+    "responses": [
+        "Fungal infection",
+        "bath twice",
+        "use detol or neem in bathing water",
+        "keep infected area dry",
+        "use clean cloths"
+    ]
+},{
+    "tag": "Appendicitis",
+    "patterns": [
+        "feeling_sick",
+        "being_sick",
+        "loss_appetite",
+        "diarrhoea",
+        "fever",
+        "flushed_face"
+    ],
+    "responses": [
+        "Fungal infection",
+        "bath twice",
+        "use detol or neem in bathing water",
+        "keep infected area dry",
+        "use clean cloths"
+    ]
+},{
+    "tag": "Arthritis",
+    "patterns": [
+        "joint_pain", 
+        "tenderness",
+        "stiffness",
+        "joints_inflammation",
+        "red_skin",
+        "weakness",
+        "muscle_wasting"
+    ],
+    "responses": [
+        "Fungal infection",
+        "bath twice",
+        "use detol or neem in bathing water",
+        "keep infected area dry",
+        "use clean cloths"
+    ]
+},{
+    "tag": "Asbestosis",
+    "patterns": [
+        "shortness_breath",
+        "persistent_cough",
+        "wheezing",
+        "fatigue",
+        "chest_pain",
+        "clubbed_fingertips"
+    ],
+    "responses": [
+        "Fungal infection",
+        "bath twice",
+        "use detol or neem in bathing water",
+        "keep infected area dry",
+        "use clean cloths"
+    ]
+},{
+    "tag": "Asthma",
+    "patterns": [
+        "wheezing",
+        "shortness_breath",
+        "tight_chest",
+        "coughing"
+    ],
+    "responses": [
+        "Fungal infection",
+        "bath twice",
+        "use detol or neem in bathing water",
+        "keep infected area dry",
+        "use clean cloths"
+    ]
+},{
+    "tag": "Atopic eczema",
+    "patterns": [
+        "worse_eczema",
+        "skin_fluid_oozing",
+        "yellow_crust_skin",
+        "yellowish-white _eczema",
+        "swollen_skin",
+        "fever",
+        "feeling_unwell"
+    ],
+    "responses": [
+        "Fungal infection",
+        "bath twice",
+        "use detol or neem in bathing water",
+        "keep infected area dry",
+        "use clean cloths"
+    ]
+},{
+    "tag": "Benign prostate enlargement",
+    "patterns": [
+        "difficult_urinating",
+        "weaken_flow_urine",
+        "blooddy_urine"
+    ],
+    "responses": [
+        "Fungal infection",
+        "bath twice",
+        "use detol or neem in bathing water",
+        "keep infected area dry",
+        "use clean cloths"
+    ]
+},{
+    "tag": "Binge eating",
+    "patterns": [
+        "faster_eating",
+        "eatting_until_feel_uncomfortably",
+        "eatting_large_amount",
+        "eatting_alone",
+        "feelings_guilt",
+        "disgust_afterwards"
+    ],
+    "responses": [
+        "Fungal infection",
+        "bath twice",
+        "use detol or neem in bathing water",
+        "keep infected area dry",
+        "use clean cloths"
+    ]
+},{
+    "tag": "Bipolar disorder",
+    "patterns": [
+        "feeling_sad",
+        "lacking_energy",
+        "difficulty_concentrating",
+        "loss_interest",
+        "worthlessness",
+        "feeling_guilt",
+        "feeling_pessimistic",
+        "self-doubt",
+        "sleeping_difficulty",
+        "suicidal_thoughts",
+        "feeling_very_happy",
+        "talking_quickly",
+        "feeling_full_energy",
+        "feeling_self-important",
+        "easily_distracted",
+        "easily_irritated",
+        "not_eating"
+    ],
+    "responses": [
+        "Fungal infection",
+        "bath twice",
+        "use detol or neem in bathing water",
+        "keep infected area dry",
+        "use clean cloths"
+    ]
+},{
+    "tag": "Bladder cancer",
+    "patterns": [
+        "sudden_urges_urinate",
+        "burning_sensation_while_urine",
+        "more_frequent_basis_urine",
+        "pelvic_pain",
+        "bone_pain",
+        "unintentional_weight_loss",
+        "swelling_legs"
+    ],
+    "responses": [
+        "Fungal infection",
+        "bath twice",
+        "use detol or neem in bathing water",
+        "keep infected area dry",
+        "use clean cloths"
+    ]
+},{
+    "tag": "Sepsis",
+    "patterns": [
+        "high_temperature",
+        "breathing_difficulty",
+        "grunting_with_breath",
+        "struggling_to_speak",
+        "no_interest_in_feeding",
+        "irritableness",
+        "unresponsive",
+        "stiffness"
+    ],
+    "responses": [
+        "Fungal infection",
+        "bath twice",
+        "use detol or neem in bathing water",
+        "keep infected area dry",
+        "use clean cloths"
+    ]
+},{
+    "tag": "Bone cancer",
+    "patterns": [
+        "Bone_pain",
+        "fever",
+        "weight_loss",
+        "sweating",
+        ""
+    ],
+    "responses": [
+        "Fungal infection",
+        "bath twice",
+        "use detol or neem in bathing water",
+        "keep infected area dry",
+        "use clean cloths"
+    ]
+},{
+    "tag": "Bowel cancer",
+    "patterns": [
+        "abdominal_pain",
+        "soreness", 
+        "discomfort",
+        "itching",
+        "weight_loss"
+    ],
+    "responses": [
+        "Fungal infection",
+        "bath twice",
+        "use detol or neem in bathing water",
+        "keep infected area dry",
+        "use clean cloths"
+    ]
+},{
+    "tag": "Bowel polyps",
+    "patterns": [
+        "rectal_bleeding",
+        "diarrhoea",
+        "constipation",
+        "abdominal_pain"
+    ],
+    "responses": [
+        "Fungal infection",
+        "bath twice",
+        "use detol or neem in bathing water",
+        "keep infected area dry",
+        "use clean cloths"
+    ]
+},{
+    "tag": "Brain stem death",
+    "patterns": [
+        "breathing",
+        "heartbeat",
+        "blood_pressure",
+        "swallowing",
+        "severe_head_injury"
+    ],
+    "responses": [
+        "Fungal infection",
+        "bath twice",
+        "use detol or neem in bathing water",
+        "keep infected area dry",
+        "use clean cloths"
+    ]
+},{
+    "tag": "Brain tumours",
+    "patterns": [
+        "severe", 
+        "persistent_headaches",
+        "seizures",
+        "persistent_nausea", 
+        "vomiting",
+        "drowsiness",
+        "behavioural_changes",
+        "progressive_weakness",
+        "paralysis",
+        "vision_problems"
+    ],
+    "responses": [
+        "Fungal infection",
+        "bath twice",
+        "use detol or neem in bathing water",
+        "keep infected area dry",
+        "use clean cloths"
+    ]
+},{
+    "tag": "Breast cancer in women",
+    "patterns": [
+        "thickened_tissued_breast",
+        "change_shape_breasts",
+        "discharge_nipples",
+        "swelling_armpits",
+        "dimpling_skin_breasts",
+        "rashd_nipple"   
+    ],
+    "responses": [
+        "Fungal infection",
+        "bath twice",
+        "use detol or neem in bathing water",
+        "keep infected area dry",
+        "use clean cloths"
+    ]
+},{
+    "tag": "Breast cancer in men",
+    "patterns": [
+        "nipple_retraction",
+        "hard_nipple",
+        "fluid_leaking_nipple",
+        "bone_pain",
+        "swelling_nodes",
+        "shortness_breath",
+        "feeling_tired",
+        "feeling_sick",
+        "itchy_skin",
+        "whites_eyes"
+    ],
+    "responses": [
+        "Fungal infection",
+        "bath twice",
+        "use detol or neem in bathing water",
+        "keep infected area dry",
+        "use clean cloths"
+    ]
+},{
+    "tag": "Bronchiectasis",
+    "patterns": [
+        "shortness_breath",
+        "wheezing",
+        "coughing_blood",
+        "chest_pain",
+        "joint_pain",
+        "clubbing_fingertips",
+        "feel_tired",
+        "blooded_cough",
+        "chest_pain"
+    ],
+    "responses": [
+        "Fungal infection",
+        "bath twice",
+        "use detol or neem in bathing water",
+        "keep infected area dry",
+        "use clean cloths"
+    ]
+},{
+    "tag": "Bronchitis",
+    "patterns": [
+        "common_cold",
+        "sore_throat",
+        "headache",
+        "runny_nose",
+        "aches",
+        "tiredness",
+        "wheezing",
+        "increasing_breathlessness",
+        "persistent_cough_with_mucus", 
+        "chest_infections"
+    ],
+    "responses": [
+        "Fungal infection",
+        "bath twice",
+        "use detol or neem in bathing water",
+        "keep infected area dry",
+        "use clean cloths"
+    ]
+},{
+    "tag": "Bulimia",
+    "patterns": [
+        "bingeing",
+        "purging ",
+        "focus_on_food",
+        "problems_with_self-esteem "
+    ],
+    "responses": [
+        "Fungal infection",
+        "bath twice",
+        "use detol or neem in bathing water",
+        "keep infected area dry",
+        "use clean cloths"
+    ]
+},{
+    "tag": "Bunions",
+    "patterns": [
+        "stiffness_toe_joint",
+        "swelling_toe_joint", 
+        "difficulty_walking",
+        "arthritis_toe"
+    ],
+    "responses": [
+        "Fungal infection",
+        "bath twice",
+        "use detol or neem in bathing water",
+        "keep infected area dry",
+        "use clean cloths"
+    ]
+},{
+    "tag": "Catarrh",
+    "patterns": [
+        "feeling_throat_blocked",
+        "runny_nose",
+        "feeling_mucus_running_down",
+        "persistent_cough",
+        "headache_facial_pain",
+        "reduced_sense",
+        "hear_loss"
+    ],
+    "responses": [
+        "Fungal infection",
+        "bath twice",
+        "use detol or neem in bathing water",
+        "keep infected area dry",
+        "use clean cloths"
+    ]
+},{
+    "tag": "Cellulitis",
+    "patterns": [
+        "red_skin",
+        "hot_skin",
+        "swollen_skin",
+        "painful_skin",
+        "tender_skin",
+        "feeling_generally_unwell",
+        "feeling_sick",
+        "shivering",
+        "chills",
+        "fever"
+    ],
+    "responses": [
+        "Fungal infection",
+        "bath twice",
+        "use detol or neem in bathing water",
+        "keep infected area dry",
+        "use clean cloths"
+    ]
+},{
+    "tag": "Cervical cancer",
+    "patterns": [
+        "vaginal_bleeding",
+        "constipation",
+        "blood_in_urine", 
+        "loss_bladder_control",
+        "bone_pain",
+        "swelling_legs",
+        "back_pain",
+        "swelling_kidneys",
+        "loss_appetite",
+        "weight_loss",
+        "tiredness"
+    ]
+},{
+    "tag": "Chest infection",
+    "patterns": [
+        "persistent_cough",
+        "coughing_yellow_phlem",
+        "coughing_green_phlegm",
+        "coughing_blood",
+        "breathlessness",
+        "shallow_breathing",
+        "wheezing",
+        "fever",
+        "rapid_heartbeat",
+        "chest_pain",
+        "tightness",
+        "feeling_confused",
+        "disorientated"
+    ]
+},{
+    "tag": "Chickenpox",
+    "patterns": [
+        "spot_behind_ears",
+        "spot_on_face",
+        "spot_over_scalp",
+        "spot_chest",
+        "spot_on_belly",
+        "spot_on_arms",
+        "spot_on_legs",
+        "feeling sick",
+        "fever",
+        "aching", 
+        "painful_muscles",
+        "headache",
+        "generally_feeling_unwell",
+        "loss_appetite"
+    ]
+},{
+    "tag": "Chlamydia",
+    "patterns": [
+        "pain_when_peeing",
+        "discharge_from_vagina",
+        "lower_tummy_pain",
+        "bleeding_after_sex",
+        "bleeding_between_periods",
+        "testicles_pain",
+        "red_sticky_eyes"
+    ]
+},{
+    "tag": "Chronic fatigue syndrome",
+    "patterns": [
+        "feeling_unwell",
+        "pain",
+        "broken_sleep",
+        "concentration_problems", 
+        "thinking_problem",
+        "memory_loss",
+        "speech_problems",
+        "dizziness",
+        "light_sensitivity",
+        "sound_sensitivity",
+        "nausea",
+        "appetite_loss",
+        "muscle_pain"
+    ]
+},{
+    "tag": "Chronic kidney disease",
+    "patterns": [
+        "weight_loss",
+        "poor_appetite",
+        "swollen_ankles",
+        "shortness_breath", 
+        "blooddy_urine", 
+        "increased_urinate_need",
+        "insomnia",
+        "itchy_skin", 
+        "muscle_cramps",
+        "high_blood_pressure", 
+        "nausea",
+        "erectile_dysfunction"
+    ]
+},{
+    "tag": "Chronic lymphocytic leukaemia",
+    "patterns": [
+        "getting_infections",
+        "anaemia",
+        "persistent_tiredness", 
+        "shortness_breath",
+        "pale_skin",
+        "bleeding",
+        "fever",
+        "night_sweats",
+        "neck_swollen_glands", 
+        "groin_swelling", 
+        "weight_loss"
+    ]
+},{
+    "tag": "Chronic myeloid leukaemia",
+    "patterns": [
+        "tiredness",
+        "frequent_infections",
+        "weight_loss",
+        "feeling_bloating",
+        "neck_glands",
+        "severe_fatigue",
+        "bone_pain",
+        "night_sweats",
+        "fever",
+        "easily_bruised_skin"
+    ]
+},{
+    "tag": "Chronic obstructive pulmonary disease",
+    "patterns": [
+        "increasing_breathlessness",
+        "phlegm_caugh",
+        "chest_infections",
+        "wheezing"
+    ]
+},{
+    "tag": "Chronic pancreatitis",
+    "patterns": [
+        " abdominal_pain",
+        "igestion_problems",
+        "nausea",
+        "bad_dreams",
+        "weight_loss",
+        "loss_appetite",
+        "yellowing_skin",
+        "yellowing_eyes",
+        "feeling_thirsty", 
+        "urinating_frequently", 
+        "feeling_tired"
+    ]
+},{
+    "tag": "Cirrhosis",
+    "patterns": [
+        "tiredness",
+        "weakness",
+        "loss_appetite",
+        "weight_loss",
+        "muscle_wasting",
+        "feeling_sick",
+        "vomiting",
+        "tenderness",
+        "liver_pain",
+        "tiny_red_lines",
+        "very_itchy_skin",
+        "yellowing_skin",
+        "whites_eyes", 
+        "bleeding_gums",
+        "hair_loss",
+        "fever",
+        "shivering_attacks",
+        "swelling_legs", 
+        "swallowing_ankle",
+        "swelling_abdomen" 
+    ]
+},{
+    "tag": "Clostridium difficile",
+    "patterns": [
+        "watery_diarrhoea",
+        "painful_tummy",
+        "feeling_sick",
+        "dry_mouth", 
+        "headaches",
+        "fever",
+        "loss_appetite",
+        "weight_loss"
+    ]
+},{
+    "tag": "Coeliac disease",
+    "patterns": [
+        "severe_diarrhoea",
+        "nausea",
+        "vomiting",
+        "stomach_pain",
+        "bloating",
+        "anaemia",
+        "tiredness",
+        "weight_loss",
+        "mouth_ulcers",
+        "skin_rash", 
+        "depression",
+        "repeated_miscarriages"
+    ]
+},{
+    "tag": "Cold sore",
+    "patterns": [
+        "irritated_gums",
+        "sore_throat",
+        "swollen_glands",
+        "producing_saliva",
+        "fever",
+        "dehydration",
+        "feeling_sick",
+        "headaches "
+    ]
+},{
+    "tag": "Common cold",
+    "patterns": [
+        "sore_throat",
+        "blocked_nose",
+        "sneezing",
+        "cough",
+        "hoarse_voice",
+        "feeling unwell",
+        "fever",
+        "headache",
+        "earache",
+        "muscle_pain",
+        "loss_taste_smell",
+        "eyes_irritation",
+        "feeling_pressure_face"
+    ]
+},{
+    "tag": "Conjunctivitis",
+    "patterns": [
+        "burning_eyes",
+        "grit_feeling_eyes",
+        "sticky_coating_eyelashes",
+        "gland_ear",
+        "fever",
+        "tree_pollen",
+        "grass_pollen",
+        "weed_pollen"
+    ]
+},{
+    "tag": "Constipation",
+    "patterns": [
+        "stomach_ache", 
+        "feeling_bloated",
+        "feeling_sick",
+        "loss_appetite",
+        "energy_lack",
+        "being_irritable",
+        "foul-smelling_wind_stools",
+        "stomach_pain",
+        "soiling_clothes",
+        "feeling_unwell"
+    ]
+},{
+    "tag": "Crohn's disease",
+    "patterns": [
+        "recurring_diarrhoea",
+        "abdominal_pain",
+        "extreme_tiredness ",
+        "weight_loss",
+        "mucus_faeces",
+        "fever",
+        "feeling_sick",
+        "vomiting",
+        "joint_pain",
+        "inflammation",
+        "eyes_irritation",
+        "red_swollen_skin",
+        "mouth_ulcers"
+    ]
+},{
+    "tag": "Croup",
+    "patterns": [
+        "bark_like_cough",
+        "croaky_voice",
+        "difficulty_breathing",
+        "harsh_grating_breathing",
+        "sore_throat ",
+        "runny_nose",
+        "cough",
+        "fever"
+    ]   
+},{
+    "tag": "Cystic fibrosis",
+    "patterns": [
+        "recurring_chest_infections",
+        "persistent_inflammation",
+        "increased_coughing",
+        "occasional_wheezing",
+        "shortness_breath"
+
+    ]
+},{
+    "tag": "Cystitis",
+    "patterns": [
+        "burning_stinging",
+        "urgently_needing_pee",
+        "dark_urine",
+        "strong-smelling_urine",
+        "tummy_pain",
+        "feeling_unwell", 
+        "achy",
+        "tired",
+        "blooddy_urine",
+        "fever",
+        "weakness",
+        "tiredness",
+        "irritability ",
+        "reduced_appetite",
+        "vomiting"
+    ]
+},{
+    "tag": "Deep vein thrombosis",
+    "patterns": [
+        "pain", 
+        "leg_swelling",
+        "heavy_ache",
+        "warm_skin",
+        "red_skin", 
+        "breathlessness ",
+        "chest_pain ",
+        "sudden_collapse" 
+    ]
+},{
+    "tag": "Dehydration",
+    "patterns": [
+        "feeling_thirsty",
+        "dry_mouth",
+        "tiredness",
+        "strong-smelling_urine",
+        "passing_urine_less"
+    ]
+},{
+    "tag": "Dementia with Lewy bodies",
+    "patterns": [
+        "thinking_speed_problem",
+        "language_problem",
+        "understanding_problem",
+        "judgemental_problem",
+        "memory_loss", 
+        "extreme_swings",
+        "confusion ",
+        "stiff_limbs",
+        "fainting", 
+        "unsteadiness", 
+        "sleep_disturbances", 
+        "loss_facial_expression",
+        "difficulty_swallowing ",
+        "depression "
+    ]
+},{
+    "tag": "Dental abscess",
+    "patterns": [
+        "intense", 
+        "tooth_throbbing_pain ",
+        "ear_pain", 
+        "disturbing_sleep",
+        "face_swelling",
+        "discoloured_tooth",
+        "shiny",
+        "swollen_gums",
+        "food_sensitivity",
+        "drink_sensitivity",
+        "unpleasant_taste_mouth"
+    ]
+},{ 
+    "tag": "Scarlet fever", 
+    "patterns":[ 
+    "sore_throat", 
+    "headache", 
+    "high_temperature", 
+    "flushed_face", 
+    "swollen_tongue",
+    "pink_red_rash", 
+    "loss_appetite", 
+    "nausea",
+    "vomiting", 
+    "armpit",
+    "white_tongue", 
+    "feeling_unwell",
+    "swollen_neck_glands" 
+    ]
+},{ 
+    "tag": "Schizophrenia", 
+    "patterns":[
+    "Hallucinations", 
+    "Delusions", 
+    "Delusions", 
+    "Changes_behaviour_thoughts", 
+    "losing_interest" 
+    ]
+},{ 
+    "tag": "Scoliosis", 
+    "patterns":[ 
+    "curved_spine",
+    "difference_leg_lengths",
+    "prominent_ribcage", 
+    "Back_pain"
+    ]
+},{ 
+    "tag": "Septic shock", 
+    "patterns":[
+    "hypotension",
+    "low_blood_pressure",
+    "confusion",
+    "disorientation", 
+    "diarrhoea",
+    "nausea_vomiting",
+    "cold", 
+    "clammy", 
+    "pale_skin"
+    ]
+},{ 
+    "tag": "Shingles",
+    "patterns":[
+    "rash_pain",
+    "itchy_blisters,",
+    "chickenpox",
+    "yellowish_Blisters", 
+    "flatten_dryout_blister", 
+    "headache",
+    "burning_affected_area",
+    "tingling_affected_area",
+    "numbness_affected_area",
+    "itchiness_affected_area",
+    "unwell_feelings", 
+    "fever", 
+    "affects_specific_area"
+    ]
+},{
+    "tag": "Shortness of breath", 
+    "patterns":[
+    " obesity",
+    "asthma", 
+    "COPD",
+    "sticky_mucus",
+    "wheeze_cough",
+    "Panic_attack",
+    "anxiety"
+    ]
+},{
+    "tag": "Sickle cell disease", 
+    "patterns":[
+    "high_temperature",
+    "difficulty_breathing",
+    "drowsiness", 
+    "confusion",
+    "slurred_speech",
+    "headache",
+    "stiff_neck",
+    "dizziness",
+    "skin_pale",
+    "seizures",
+    "serious_pain",
+    "swelling_tummy",
+    "painful_erection",
+    "weakness",
+    "vision_loss",
+    "Sickle_cell_crises",
+    "Infection", 
+    "Anaemia",
+    "headaches",
+    "fast_heartbeat",
+    "fainting",
+    "dizziness", 
+    "acute_chest_syndrome", 
+    "pain_bones_joints",
+    "delayed_puberty",
+    "delayed_growth",
+    "kidney_problems",
+    "gallstones", 
+    "jaundice", 
+    "abdominal_pain",
+    "ulcers_lower_legs",
+    "priapism",
+    "pulmonary_hypertension",
+    "TIAs",
+    "enlarged_spleen",
+    "swollen_tummy", 
+    "shortness_breath", 
+    "abdominal_pain",
+    "floaters", 
+    "worsened_night_vision", 
+    "blurred_vision", 
+    "patchy_vision", 
+    "occasionally", 
+    "sudden_vision _loss"
+    ]
+},{
+    "tag": "Sinusitis", 
+    "patterns":[
+    "greer_yellow_discharge_nose",
+    "blocked_nose",
+    "pain_tenderness",
+    "sinus_headache",
+    "fever",
+    "toothache",
+    "reduced",
+    "halitosis", 
+    "children_stuffy_cold"
+    ]
+},{
+    "tag": "Sjogren's syndrome",
+    "patterns":[
+    "dry_mouth",
+    "tooth decay", 
+    "gum_disease",
+    "dry_cough",
+    "difficulty_swallowing",  
+    "chewing",
+    "hoarse_voice",
+    "difficulty_speaking",
+    "swollen_salivary_glands",
+    "fungal infections",
+    "burning_eyes",
+    "itchy_eyes",
+    "irritated_swollen_eyelids",
+    "photophobia",
+    "tired_eyes",
+    "mucus_discharge_eyes",
+    "dry_skin",
+    "tiredness_fatigue",
+    "muscle_pain",
+    "joint pain", 
+    "stiffness_swelling",
+    "vasculitis",
+    "difficulty_concentrating", 
+    "remembering_reasoning"
+    ]
+},{
+    "tag": "Skin cancer (melanoma)", 
+    "patterns":[
+    "abnormal_mole",
+    "Melanoma_symptoms"
+    ]
+},{
+    "tag": "Skin cancer (non-melanoma)",
+    "patterns":[
+    "discoloured_patch",
+    "tumour",
+    "Basal_cell_carcinoma",
+    "Bowen_disease"
+    ]
+},{
+    "tag": "Slapped cheek syndrome",
+    "patterns":[
+    "Slapped_cheek_rash", 
+    "fever",
+    "runny_nose", 
+    "sore_throat",
+    "headache",
+    "upset_stomach",
+    "feeling_unwell"
+    ]
+},{
+    "tag": "Soft tissue sarcomas",
+    "patterns":[
+    "cancers_affecting_tissues",
+    " develop_muscle_tissue"
+    ]
+},{
+    "tag": "Soft tissue sarcomas: Teenagers and young adults", 
+    "patterns":[
+    "swelling_limb",
+    "abdomen_painful", 
+    "swollen tummy",
+    "constipation",
+    "bladder_symptoms",
+    "chest_symptoms",
+    "discharge_nose",
+    "tiredness", 
+    "loss_appetite", 
+    "weight_loss"
+    ]
+},{
+    "tag": "Sore throat",
+    "patterns":[
+    "minor_illnesses",
+    "colds",
+    "flu"
+    ]
+},{
+    "tag": "Spleen problems and spleen removal",
+    "patterns":[
+    "ribs_pain"
+    ]
+},{
+    "tag": "Stillbirth",
+    "patterns":[
+    "baby_dies_after_24th_week"
+    ]
+},{
+    "tag": "Stomach ache and abdominal pain",
+    "patterns":[
+    "ache_tummy",
+    "Abdominal_pain",
+    "Stomach_cramps", 
+    "bloating"
+    ]
+},{
+    "tag": "Stomach cancer",
+    "patterns":[
+    "persistent_indigestion",
+    "trapped_wind", 
+    "frequent_burping",
+    "heartburn",
+    "quickly_eating",
+    "feeling_sick",
+    "pain_stomach",
+    "pain_breastbone",
+    "difficulty_swallowing",
+    "vomiting",
+    "stomach_cancer",
+    "blood_stools",
+    "black_stools",
+    "loss_appetite",
+    "weight_loss",
+    "tiredness",
+    "lumpiness",
+    "develop_muscle_tissue",
+    "anaemia",
+    "yellowing_skin", 
+    "whites_eyes",
+    "jaundice"
+    ]
+},{
+    "tag": "Stomach ulcer",
+    "patterns":[
+    " burning_abdomen",
+    "tummy_pain",
+    "indigestion",
+    "heartburn",
+    "loss_appetite",
+    "feeling_sick",
+    "weight_loss"
+    ]
+},{
+    "tag": "Mental wellbeing", 
+    "patterns":[
+    "Anger_management",
+    "Fears_phobias",
+    "Anxiety_panic",
+    "Low_mood_depression",
+    "Stress",
+    "Dealing_traumatic_events"
+    ]
+},{
+    "tag": "Stroke",
+    "patterns":[
+    "face_drop_oneside",
+    "weakness_numbness_arm",
+    "person_notbe_able_talk",
+    "paralysis_oneside",
+    "sudden_loss",
+    "blurring_vision",
+    "difficulty_understanding",
+    "problems_co-ordination",
+    "headache",
+    "loss_feeling_oneside_body"
+    ]
+},{
+    "tag": "Sudden infant death syndrome",
+    "patterns":[
+    "born_early_underwaitght"
+    ]
+},{
+    "tag": "Sunburn",
+    "patterns":[
+    "skin_red", 
+    "sore", 
+    "warm", 
+    "tender_occasionally", 
+    "itchy",
+    "skin_flake_peel "
+    ]
+},{
+    "tag": "Swollen glands",
+    "patterns":[
+    "Swollen_lymph_glands_infection"
+    ]
+},{
+    "tag": "Syphilis",
+    "patterns":[
+    "infection", 
+    "painless_ulcer",
+    "non-itchy_skin", 
+    "rash_palms_hands",
+    "soles_feet",
+    "tiredness",
+    "headaches",
+    "swollen_lymph_glands",
+    "fever",
+    "weight_loss",
+    "patchy_hair_loss",
+    "joint_pains",
+    "stroke",
+    "dementia",
+    "loss_co-ordination",
+    "numbness",
+    "paralysis",
+    "blindness",
+    "deafness",
+    "heart_disease",
+    "skin_rashes"
+    ]
+},{
+    "tag": "Testicular cancer",
+    "patterns":[
+    "swelling_testicles",
+    "dull_ache",
+    "sharp_pain_testicles",
+    "feeling_heaviness_scrotum",
+    "increase_firmness_testicle",
+    "difference_testicle",
+    "cough",
+    "spitting_blood", 
+    "shortness_breath", 
+    "swelling_enlargement",
+    "male_breasts",
+    "swelling_neck",
+    "back_pain"
+    ]
+},{
+    "tag": "Testicular cancer: Teenagers and young adults",
+    "patterns":[
+    "swelling_testicles",
+    "dull_ache",
+    "sharp_pain",
+    "feeling_heaviness_scrotum",
+    "change_texture", 
+    "increas_firmness_testicle",
+    "difference_testicle",
+    "metastatic_testicular_cancer"
+    ]
+},{
+    "tag": "Thirst", 
+    "patterns":[
+    "Dehydration"
+    ]
+},{
+    "tag": "Threadworms",
+    "patterns":[
+    "itching_anus",
+    "threadworms_spot"
+    ]
+},{
+    "tag": "Thrush",
+    "patterns":[
+    "vaginal_discharge",
+    "itching_irritation_vagina",
+    "pain_peeing",
+    "pain_having_sex",
+    "irritation_burning_penis",
+    "white_discharge_penis",
+    "unpleasant_smell",
+    "difficulty_foreskin",
+    "Testing_for_thrush"
+    ]
+},{
+    "tag": "Thyroid cancer",
+    "patterns":[
+    "swelling_neck",
+    "lymph_swollen",
+    "hoarseness",
+    "sore_throat",
+    "pain_neck"
+    ]
+},{
+    "tag": "Thyroid cancer: Teenagers and young adults",
+    "patterns":[
+    "hoarsevoice",
+    "swallowing_breathing"
+    ]
+},{
+    "tag": "Tinnitus",
+    "patterns":[
+    "ringing_ears",
+    "insomnia", 
+    "depression"
+    ]
+},{
+    "tag": "Tonsillitis",
+    "patterns":[
+    "sore_throat",
+    "high_temperature",
+    "coughing",
+    "headache",
+    "earache",
+    "feeling_sick",
+    "feeling_tired",
+    "painful_lymph",
+    "changes_voice"
+    ]
+},{
+    "tag": "Tooth decay",
+    "patterns":[
+    "toothache",
+    "tooth_sensitivity",
+    "spots_teeth",
+    "bad_breath",
+    "unpleasant_taste_mouth"
+    ]
+},{
+    "tag": "Toothache", 
+    "patterns":[
+    "pain_teeth"
+    ]
+},{
+    "tag": "Transient ischaemic attack (TIA)",
+    "patterns":[
+    "facedrop_oneside",
+    "arm_weakness",
+    "diabetes", 
+    "high_blood_pressure",
+    "paralysis_oneside_body",
+    "blurring_vision",
+    "dizziness",
+    "confusion",
+    "difficulty_understanding"
+    ]
+},{
+    "tag": "Trigeminal neuralgia",
+    "patterns":[
+    "attacks_severe",
+    "facial_pain",
+    "pain_teeth_lowerjaw",
+    "neuralgia_triggered ",
+    "depression", 
+    "suicide"
+    ]
+},{
+    "tag": "Tuberculosis (TB)",
+    "patterns":[
+    "weight_loss",
+    "fever",
+    "night_sweats",
+    "tiredness",
+    "fatigue",
+    "cough",
+    "breathlessness",
+    "swollen glands",
+    "abdominal_pain",
+    "pain_bone",
+    "confusion",
+    "persistent_headache",
+    "seizures"
+    ]
+},{
+    "tag": "Type 1 diabetes",
+    "patterns":[
+    "thirsty",
+    "urinating",
+    "tired",
+    "weight_loss",
+    "itchiness",
+    "blurred"
+    ]
+},{
+    "tag": "Type 2 diabetes",
+    "patterns":[
+    "urinating",
+    "thirsty",
+    "tired",
+    "weight_loss",
+    "itchiness",
+    "wounds",
+    "blurred_vision"
+    ]
+},{
+    "tag": "Trichomonas infection",
+    "patterns":[
+    "discharge_vagina_penis",
+    "itching_soreness",
+    "pain_peeing"
+    ]
+},{
+    "tag": "Ulcerative colitis",
+    "patterns":[
+    "diarrhoea",
+    "abdominal_pain",
+    "tiredness", 
+    "loss_appetite", 
+    "weight_loss",
+    "arthritis",
+    "mouth_ulcers",
+    "areas_painful", 
+    "swollen_skin",
+    "red_eyes",
+    "shortness_breath",
+    "irregular_heartbeat",
+    "fever",
+    "blood_stools"
+    ]
+},{
+    "tag": "Underactive thyroid",
+    "patterns":[
+    "tiredness",
+    "sensitive_cold",
+    "weight_gain",
+    "constipation",
+    "depression",
+    "slow_movements",
+    "muscle_aches",
+    "muscle_cramps",
+    "dry_scaly_skin",
+    "brittle_hair_nails",
+    "loss_libido",
+    "pain", 
+    "numbness",
+    "irregular_periods"
+    ]
+},{
+    "tag": "Urinary incontinence",
+    "patterns":[
+    "Having_urinary",
+    "urinary incontinence"
+    ]
+},{
+    "tag": "Urinary tract infection (UTI)",
+    "patterns":[
+    "pee_moreoften",
+    "discomfort_peeing",
+    "sudden_pee",
+    "bladder_fully",
+    "pain_low",
+    "urine_cloudy", 
+    "foul-smelling",
+    "feeling_unwell", 
+    "achy_tired",
+    "Infections_kidneys",
+    "fever",
+    "pain_back",
+    "shivering_chills",
+    "feeling_sick",
+    "confusion",
+    "agitation_restlessness"
+    ]
+},{
+    "tag": "Urinary tract infection (UTI) in children",
+    "patterns":[
+    "fever",
+    "vomiting",
+    "lethargy",
+    "irritability",
+    "poor_feeding",
+    "weight_loss",
+    "jaundice",
+    "pain_peeing",
+    "frequently_pee",
+    "change_toilet_habits", 
+    "pain_abdomen",
+    "smelling_pee",
+    "blood_pee",
+    "cloudy_pee"
+    ]
+},{
+    "tag": "Urticaria (hives)",
+    "patterns":[
+    "nettle_rash",
+    "itchy_rash"
+    ]
+},{
+    "tag": "Vaginal cancer",
+    "patterns":[
+    "bleeding_periods",
+    "post-menopausal_bleeding",
+    "smelly_bloody", 
+    "vaginal_discharge",
+    "pain_sex",
+    "pain_urinating",
+    "more_urinate",
+    "blood_urine",
+    "pelvic_pain",
+    "itch_vagina"
+    ]
+},{
+    "tag": "Varicose eczema",
+    "patterns":[
+    "itchy",
+    "red_swollen",
+    "dry_flaky", 
+    "scaly_crusty",
+    "legs_swollen",
+    "Varicose_veins",
+    "discolouration_skin",
+    "lipodermatosclerosis",
+    "atrophie_blanche",
+    "pain",
+    "eczema_affecting",
+    "leg_ulcers"
+    ]
+},{
+    "tag": "Venous leg ulcer",
+    "patterns":[
+    "oedema",    
+    "discolouration_ulcer",
+    "hardened_skin",
+    "heavy_feeling_legs",
+    "aching_legs",
+    "varicose_eczema",
+    "varicose veins",
+    "foul-smelling_ulcer",
+    "infection",
+    "worsening_pain",
+    "unpleasant_discharge_ulcer",
+    "swelling_ulcer",
+    "fever"
+    ]
+},{
+    "tag": "Vertigo",
+    "patterns":[
+    "loss_balance",
+    "feeling_sick",
+    "dizziness"
+    ]
+},{
+    "tag": "Vitamin B12 or folate deficiency anaemia",
+    "patterns":[
+    "fatigue",
+    "lethargy",
+    "breathlessness",
+    "feeling_faint",
+    "headaches",
+    "pale_skin",
+    "palpitations",
+    "tinnitus",
+    "loss_appetite", 
+    "weight_loss",
+    "B12_deficiency",
+    "glossitis",
+    "mouth_ulcers",
+    "paraesthesia",
+    "changes_walk",
+    "disturbed_vision",
+    "irritability",
+    "depression",
+    "changes_think", 
+    "feel_behave",
+    "dementia",
+    "folate_deficiency",
+    "reduce_sense_taste",
+    "diarrhoea",
+    "numbness_tingling_feet_hands",
+    "muscle_weakness",
+    "depression"
+    ]
+},{
+    "tag": "Vomiting in adults",
+    "patterns":[
+    "Nausea_vomiting",
+    "gastroenteritis",
+    "appendicitis",
+    "vomiting_children"
+    ]
+},{
+    "tag": "Vulval cancer",
+    "patterns":[
+    "itch_vulva",
+    "tenderness_vulva",
+    "thickened_patches",
+    "wart-like_growth_vulva",
+    "blood-stained_vaginal discharge_between_periods",
+    "open_sore_vulva",
+    "pain_passing_urine",
+    "mole_vulva"
+    ]
+},{
+    "tag": "Warts and verrucas",
+    "patterns":[
+    "round",
+    "firm_raised",
+    "rough_irregular_surface",
+    "knuckles_fingers_knees"
+    ]
+},{
+    "tag": "Whooping cough",
+    "patterns":[
+    "cold_runny_nose",
+    "vomiting",
+    "breath_with_whoop_sound",
+    "face_very_red",
+    "slight_bleeding_skin",
+    "cyanosis"
+    ]
+},{
+    "tag": "Wilms tumour",
+    "patterns":[
+    "swollen_abdomen",
+    "irritate_the_kidney",
+    "blood_urine",
+    "high_blood_pressure",
+    "fever"
+    ]
+},{
+    "tag": "Womb cancer",
+    "patterns":[
+    "abnormal_bleeding_vagina",
+    "periods_heavier",
+    "vaginal_bleeding",
+    "pain_abdomen", 
+    "pain_during_sex",
+    "pain_back_legs_pelvis",
+    "loss_appetite",
+    "tiredness",
+    "nausea"
+    ]
+},{
+    "tag": "Yellow fever",
+    "patterns":[
+    "fever",
+    "headache",
+    "nausea_vomiting",
+    "muscle_pain", 
+    "including_backache",
+    "loss_appetite"
+    ]
+}
+]
+}

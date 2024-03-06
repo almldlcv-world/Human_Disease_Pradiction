@@ -1,0 +1,965 @@
+{
+	"intents": 
+	[
+	{
+    "tag": "Earache",
+    "patterns":[
+        "tugging",
+        "fussiness",
+        "fever",
+        "trouble_sleeping"
+    ]
+},{
+    "tag": "Earwax build-up",
+    "patterns": [
+        "earache",
+        "hearing_loss",
+        "tinnitus", 
+        "itchiness",
+        "vertigo", 
+        "ear_infections"
+    ]
+},{
+    "tag": "Ebola virus disease",
+    "patterns": [
+        "high_temperature",
+        "headache",
+        "joint_pain",
+        "sore_throat",
+        "severe_muscle_weakness"
+    ]
+},{
+    "tag": "Ectopic pregnancy",
+    "patterns": [
+        "pain_low_down_and_on_one_side_of_your_abdomen",
+        "bleeding_from_your_vagina",
+        "pain_in_the_tip_of_your_shoulder",
+        "discomfort_when_going_to_the_toilet",
+        "a_brown_watery_discharge_from_your_vagina"
+    ]
+},{
+    "tag": "Endometriosis",
+    "patterns": [
+        "pain_during_ovulation",
+        "heavy_or_prolonged_(long_lasting)_periods",
+        "difficulty_getting_pregnant",
+        "fatigue",
+        "pain during and after sex"
+    ]
+},{
+    "tag":"Epilepsy",
+    "patterns": [
+        "partial_(or focal)_seizures_where_only_a_small_part_of_the_brain_is_affected",
+        "generalised_seizures_where_most_or_all_of_the_brain_is_affected"
+    ]
+},{
+    "tag": "Erectile dysfunction (impotence)",
+    "patterns": [
+        "inability_to_get_and_maintain_an_erection_for_satisfactory_intercourse"
+    ]
+},{
+    "tag": "Escherichia coli (E. coli) O157",
+    "patterns": [
+        "diarrhoea",
+        "stomach_cramps",
+        "occasionally_fever",
+        "bloody_diarrhoea"
+    ]
+},{
+    "tag": "Ewing sarcoma",
+    "patterns": [
+        " pain_in_the_affected_area_that_gets_progressively_worse",
+        "swelling",
+        "tenderness"
+    ]
+},{
+    "tag": "Eye cancer",
+    "patterns": [
+        "shadows_flashes_of_light_or_wiggly_lines_in_your_vision",
+        "blurred_vision",
+        "a_dark_patch_in_your_eye_that's_getting_bigger",
+        "partial_or_total_loss_of_vision",
+        "bulging_of_one_eye",
+        "a_lump_on_your_eyelid_or_in_your_eye_that's_increasing_in_size",
+        "pain_in_or_around_your_eye"
+    ]
+},{
+    "tag": "Febrile seizures",
+    "patterns": [
+        "fit_that_occurs_while_a_child_has_a_fever",
+        "child’s_body_will_become_stiff_and_their_arms_and_legs_will_begin_to_twitch",
+        "lose_consciousness",
+        "vomit",
+        "foam_at_the_mouth",
+        "eyes_may_roll_back"
+    ]
+},{
+    "tag": "Fever_in_adults",
+    "patterns": [
+        "severe_thirst_or_reduced_urine_output",
+        "passing_urine_that_is_darker_than_normal",
+        "light-headed_or_weak",
+        "new_severe_muscle_cramps"
+    ]
+},{
+    "tag": "Fever in children",
+    "patterns": [
+        "upper_respiratory_tract_infections_(RTIs)",
+        "flu",
+        "ear_infections",
+        "roseola_a_virus_that_causes_a_temperature_and_a_rash", 
+        "tonsillitis",
+        "kidney_or_urinary_tract_infections_(UTIs)",
+        "common_childhood_illnesses_such_as_chickenpox_and_whooping_cough"
+    ]
+},{
+    "tag": "Fibroids",
+    "patterns": [
+        "heavy_periods",
+        "painful_periods",
+        "tummy_(abdominal)_pain",
+        "lower_back_pain",
+        "frequent_need_to_urinate",
+        "constipation",
+        "pain_or_discomfort_during_sex"
+    ]
+},{
+    "tag": "Fibromyalgia",
+    "patterns": [
+        "widespread_pain",
+        "Extreme_sensitivity",
+        "Stiffness",
+        "Fatigue",
+        "Poor_sleep",
+        "Cognitive_problems(fibro-fog)"
+    ]
+},{
+    "tag": "Flatulence",
+    "patterns":[
+        "abdominal_pain",
+        "diarrhoea",
+        "constipation",
+        "blood_in_stool",
+        "weight_loss"
+    ]
+},{
+    "tag": "Flu",
+    "patterns":[
+        "high_fever",
+        "weakness",
+        "headache",
+        "chesty_cough",
+        "diarrhoea",
+        "sneezing",
+        "vomiting",
+        "runny_nose",
+        "sore_throat"
+    ]
+},{
+    "tag": "Foetal alcohol syndrome",
+    "patterns":[
+        "learning_disabilities",
+        "low_body_weight",
+        "hyperactive_behavior",
+        "poor_memory"
+    ]
+},{
+    "tag": "Food poisoning",
+    "patterns":[
+        " feel_weak",
+        "vomiting",
+        "diarrhoea",
+        "loss_of_appetite",
+        "high_temperature",
+        "achihg_limbs",
+        "cramping"
+    ]
+},{
+    "tag": "Fungal nail infection",
+    "patterns":[
+        "discolouration",
+        "distortion",
+        "pain",
+        "crumbly_nails",
+        "swollen_nails",
+        "itchy"
+    ]
+},{
+	"tag": "Gallbladder cancer",
+	"patterns": [
+        "stomach_pain",
+        "feeling_sick",
+        "jaundice",
+        "loss_of_appetite",
+        "swollen_stomach"
+    ]
+},{
+	"tag": "Gallstones",
+	"patterns": [
+		"abdominal_pain",
+		"pain",
+        "high_temperature",
+        "rapid_heartbeat",
+        "yellowing",
+        "jaudice",
+        "itchy_skin",
+        "diarrhoea",
+        "shivering",
+        "a_loss_of_appetite"
+    ]
+},{
+    "tag": "Ganglion cyst",
+    "patterns":[
+        "soft_bumps",
+        "weakness",
+        "pain"
+    ]
+},{
+	"tag": "Gastroenteritis",
+    "patterns": [
+        "diarrhoea",
+        "felling_sick",
+        "vomiting",
+        "mild_fever",
+        "loss_of_appetite",
+        "upset_stomach",
+        "headaches",
+        "achihg_limbs"
+    ]
+},{
+	"tag": "Gastro-oesophageal reflux disease (GORD)",
+	"patterns": [
+        "burning_sensation",
+        "unpleasant",
+        "oesophagitis",
+        "bad_breath",
+        "bloating",
+        "belching",
+        "difficulty_swallowing",
+        "hoarseness",
+        "wheezing",
+        "gum_diease",
+        "asthma"
+    ]
+},{
+	"tag": "Genital herpes",
+	"patterns": [
+        "vaginal_discharge",
+        "fever",
+        "mild_swelling",
+        "burning_sensation",
+        "headache",
+        "bumps"
+    ]
+},{
+	"tag": "Genital warts",
+	"patterns": [
+        "mild_bleeding",
+        "discomfort",
+        "irritation",
+        "burning_sensation"
+    ]
+},{
+	"tag": "Germ cell tumours",
+	"patterns": [
+        "pain",
+        "bleeding",
+        "swelling"
+    ]
+},{
+	"tag": "Glandular fever",
+	"patterns": [
+        "fever",
+        "loss_of_appetite",
+        "rashes",
+        "aching",
+        "swelling",
+        "swollen_tummy",
+        "jaundice"
+    ]
+},{
+	"tag": "Gonorrhoea",
+	"patterns": [
+        "green_or_yellow_fluid",
+        "swelling",
+        "bleeding",
+        "burning_sensation",
+        "pain"
+    ]
+},{
+	"tag": "Gout",
+	"patterns": [
+        "sudden_attack",
+        "swellig",
+        "itchy",
+        "shiny_and_flaky_skin"
+    ]
+},{
+	"tag": "Gum disease",
+	"patterns": [
+        "loose_teeth",
+        "bleeding",
+        "painful_ulcers",
+        "bad_breath",
+        "excess_saliva",
+        "difficulty_swallowing",
+        "fever"
+    ]
+},{
+	"tag": "Haemorrhoids (piles)",
+	"patterns": [
+        "bleeding",
+        "itchy_bottom",
+        "hanging_lump",
+        "mucus_discharge",
+        "soreness",
+        "redness",
+        "swelling"
+    ]
+},{
+	"tag": "Hand, foot and mouth disease",
+	"patterns": [
+	    "high_fever",
+        "feeling_unwell",
+        "loss_of_appetite",
+        "coughing",
+        "abdominal_pain",
+        "sore_throat"
+    ]
+},{
+	"tag": "Hay fever",
+	"patterns": [
+        "sneezing",
+        "blocked_nose",
+        "eye_redness",
+        "itchy_eye",
+        "itchy_throat",
+        "itchy_ears",
+        "itchy_mouth",
+        "itchy_nose",
+        "cough",
+        "shortness_of_breath",
+        "facial_pain",
+        "headache",
+        "earache",
+        "fatigue",
+        "tiredness",
+        "tight_chest"
+    ]
+},{
+    "tag": "Head and Neck cancer",
+    "patterns": [
+        "shortness_of_breath",
+        "noisy_breathing",
+        "persistent_cough",
+        "lump",
+        "nosebleeds"
+    ]
+},{
+    "tag": "Head lice and nits",
+    "patterns": [
+        "itchy_scalp",
+        "rash_on_neck",
+        "moving_in_hair",
+        "nits"
+    ]
+},{
+    "tag": "Headaches",
+    "patterns": [
+        "vision_problems",
+        "eye_redness",
+        "memory_loss",
+        "slurred_speech",
+        " feel_weak"
+    ]
+},{
+    "tag": "Hearing loss",
+    "patterns": [
+      "difficulty_hearing ",
+      "ringing_in_the_ears",
+      "buzzing_sounds"
+    ]
+},{
+    "tag": "Heart failure",
+    "patterns": [
+        "breathlessness",
+        "tiredness",
+        "lethargy",
+        "leg_swelling",
+        "loss_of_appetite",
+        "poor_blood_flow"
+    ]
+},{
+    "tag": "Hepatitis A",
+    "patterns": [
+        "feeling_unwell",
+        "joint_pain",
+        "mild_fever",
+        "loss_of_appetite",
+        "headache",
+        "cough",
+        "diarrhoea",
+        "jaundice",
+        "dark_urine",
+        "itchy_skin",
+        "pale_stools"
+    ]
+},{
+    "tag": "Hepatitis B",
+    "patterns": [
+        "loss_of_appetite",
+        "diarrhoea",
+        "high_fever",
+        "dark_urine",
+        "grey_coloured_poo"
+    ]
+},{
+    "tag": "Hepatitis C",
+    "patterns": [
+        "high_fever",
+        "loss_of_appetite",
+        "abdominal_pain",
+        "depression",
+        "bloating",
+        "itchy_skin",
+        "mood_swings"
+    ]
+},{
+    "tag": "Hiatus hernia",
+    "patterns": [
+        "chest_pain",
+        "belching",
+        "abdominal_pain",
+        "frequent_burping",
+        "sever_heatburn"
+    ]
+},{
+    "tag": "High cholesterol",
+    "patterns": [
+        "yellow_patches",
+        "white_or_grey_discoloration_cornia",
+        "chest_pain",
+        "bad_breathing",
+        "digestive_issue"
+    ]
+},{
+    "tag": "HIV",
+    "patterns": [
+        "fever",
+        "sore_throat",
+        "body_rash",
+        "swollen_glands",
+        "weight_loss",
+        "chronic_diarrhoea"
+    ]
+},{
+    "tag":"Hodgkin lymphoma", 
+    "patterns": [
+        "swelling",
+        "night_sweats",
+        "high_fever",
+        "breathlessness",
+        "unintentional_weight_loss",
+        "indigestion",
+        "excessive_bleeding",
+        "fatigue"
+    ]
+},{
+    "tag": "Huntington's disease",
+    "patterns": [
+        "mood_swings",
+        "fidgety_movements",
+        "irritability_behaviour",
+        "depression",
+        "lack_of_emotions"
+    ]
+},{
+    "tag": "Hyperglycaemia (high blood sugar)", 
+    "patterns": [
+        "dry_mouth",
+        "frequently_pee",
+        "tiredness",
+        "blurred_vision",
+        "unintentional_weight_loss"
+    ]
+},{
+    "tag": "Hyperhidrosis",
+    "patterns": [
+        "excessive_sweating",
+        "warts",
+        "wet_palms",
+        "wet_soles"
+    ]
+},{
+    "tag": "Hypoglycaemia (low blood sugar)",
+    "patterns": [
+        "sweating",
+        "dizziness",
+        "fatigue",
+        "blurred_vision",
+        "trembling",
+        "palpitations",
+        "confusion",
+        "irrational_behaviour"
+    ]
+},{
+    "tag": "Idiopathic pulmonary fibrosis",
+    "patterns": [
+        "breath_shortness",
+        "tiredness",
+        "loss_of_appetite",
+        "chest_pain",
+        "dizziness"
+    ]
+},{
+    "tag": "Impetigo",
+    "patterns": [
+        "red_sores",
+        "itchy",
+        "high_fever",
+        "swollen_glands",
+        "fluid_filled_blister"
+    ]
+},{
+    "tag": "Indigestion",
+    "patterns": [
+        "heartburn",
+        "feeling_heavy",
+        "belching",
+        "bloating",
+        "nausea",
+        "vomiting"
+    ]
+},{
+    "tag": "Ingrown toenail",
+    "patterns": [
+        "inflammation",
+        "build_up_fluid_(oedema)",
+        "overgrowth_of_skin",
+        "bleeding",
+        "white_or_yellow_pus",
+        "red_nail_curls"
+    ]
+},{
+    "tag": "Inherited heart conditions",
+    "patterns": [
+        "palpitations",
+        "blackouts",
+        "dizzy_spells",
+        "shortness_os_breath"
+    ]
+},{
+    "tag": "Insomnia",
+    "patterns": [
+        "daytime_sleepiness",
+        "irritability",
+        "trouble_falling_asleep"
+    ]
+},{
+    "tag": "Iron deficiency anaemia",
+    "patterns": [
+        "tiredness",
+        "shortness_breath",
+        "heart_palpitations",
+        "pale_complexion",
+        "headache",
+        "tinnitus",
+        "itchy",
+        "hair_loss",
+        "spoon_shaped_nails",
+        "altered_teste_sense"
+    ]
+},{
+    "tag": "Irritable bowel syndrome (IBS)",
+    "patterns": [
+        "cramping",
+        "bloating",
+        "flatulence",
+        "lethargy",
+        "heartburn"
+    ]
+},{
+    "tag": "Irritable hip",
+    "patterns": [
+        "pain",
+        "high_temperature"
+    ]
+},{
+    "tag": "Itching",
+    "patterns": [
+        "redness",
+        "spots",
+        "dry_skin"
+    ]
+},{
+    "tag": "Itchy bottom",
+    "patterns": [
+        "burning",
+        "soreness",
+        "visible_redness",
+        "swelling",
+        "ulcers",
+        "rash"
+    ]
+},{
+    "tag": "Kaposi's sarcoma",
+    "patterns": [
+        "swelling",
+        "vomiting",
+        "stomach_pain",
+        "diarrhoea",
+        "patches",
+        "chest_pain"
+    ]
+},{
+    "tag": "Kidney cancer",
+    "patterns": [
+        "haematuria",
+        "pain",
+        "lump",
+        "anaemia",
+        "hgh_temperature",
+        "hypertension",
+        "loss_of_appetite"
+    ]
+},{
+    "tag": "Kidney infection",
+    "patterns": [
+        "pain",
+        "shivering",
+        "diarrhoea",
+        "buring_sensation",
+        "irritability",
+        "bedwetiing",
+        "smelling_urine",
+        "jaundice",
+        "vomiting"
+    ]
+},{
+    "tag": "Kidney stones",
+    "patterns": [
+        "restless_feelling",
+        "nausea",
+        "dysuria",
+        "haematuria",
+        "high_temperature",
+        "bad_smelling_urine",
+        "diarrhoea"
+    ]
+},{
+    "tag": "Labyrinthitis",
+    "patterns": [
+        "tinnitus",
+        "ear_pain",
+        "nausea",
+        "mild_headache",
+        "dizziness",
+        "pus_leaking"
+    ]
+},{
+    "tag": "Lactose intolerance",
+    "patterns": [
+        "flatulence",
+        "diarrhoea",
+        "bloated_stomach",
+        "pain",
+        "rumbilng"
+    ]
+},{
+    "tag": "Laryngeal (larynx) cancer",
+    "patterns": [
+        "difficulty_swallowing",
+        "lump",
+        "long_lasting_cough",
+        "earache",
+        "hoarse_sounding",
+        "breathlessness",
+        "fatigue",
+        "bad_breath"
+    ]
+},{
+    "tag": "Laryngitis",
+    "patterns": [
+        "hoarsesness",
+        "difficulty_speaking",
+        "sore_throat",
+        "mild_fever",
+        "irritating_cough",
+        "runny_nose",
+        "swollen_glands"
+    ]
+},{
+    "tag": "Leg cramps",
+    "patterns": [
+        "crampa",
+        "numbness"
+    ]
+},{
+    "tag": "Lichen planus",
+    "patterns": [
+        "papules",
+        "itchy",
+        "white-pattern",
+        "burning_sensation",
+        "patches",
+        "rawness"
+    ]
+},{
+    "tag": "Liver cancer",
+    "patterns": [
+        "loss_of_appetite",
+        "vomiting",
+        "itchy_skin",
+        "jaundice",
+        "weight_loss"
+    ]
+},{
+    "tag": "Liver disease",
+    "patterns": [
+        "jaundice",
+        "itchy_skin",
+        "chronic_fatigue",
+        "dark_urine",
+        "abdominal_pain"
+    ]
+},{
+    "tag": "Liver tumours",
+    "patterns": [
+        "lump",
+        "swelling",
+        "weight_loss",
+        "nausea",
+        "vomiting"
+    ]
+},{
+    "tag": "Loss_of_libido",
+    "patterns": [
+        "depression",
+        "fatigue",
+        "anxiety"
+    ]
+},{
+    "tag": "Lung cancer",
+    "patterns": [
+        "cough",
+        "breathlessness",
+        "loss_of_appetite",
+        "difficulty_swelling",
+        "wheezing",
+        "hoarse_voice",
+        "chest_pain"
+    ]
+},{
+    "tag": "Lupus", 
+    "patterns": [
+        "fatigue",
+        "rashes",
+        "swelling",
+        "high_temperature",
+        "hair_loss",
+        "hypertension",
+        "dry_eyes",
+        "shortness_breath",
+        "migraines",
+        "raynaud's_phenomenon"
+    ]
+},{
+    "tag": "Lyme disease", 
+    "patterns": [
+        "rashes",
+        "fatigue",
+        "headaches",
+        "neck_stiffness",
+        "fever",
+        "pain"
+    ]
+},{
+    "tag": "Lymphoedema",
+    "patterns": [
+        "swelling",
+        "aching",
+        "wart",
+        "tight_skin"
+    ]
+},{
+    "tag": "Lymphogranuloma venereum (LGV)",
+    "patterns": [
+        "pus",
+        "paain",
+        "constipation"
+    ]
+},{
+    "tag": "Malaria",
+    "patterns": [
+        "fever",
+        "headaches",
+        "sweats",
+        "chills",
+        "vomiting",
+        "diarrhoea",
+        "low_blood_sugar",
+        "jaundice",
+        "dehydration"
+    ]
+},{
+    "tag": "Malignant brain tumour (cancerous)",
+    "patterns": [
+        "seizures",
+        "paralysis",
+        "drowsiness",
+        "vision_problem",
+        "vomiting"
+    ]
+},{
+    "tag": "Malnutrition",
+    "patterns": [
+        "loss_of_appetite",
+        "tiredness",
+        "poor_growth",
+        "dizziness"
+    ]
+},{
+    "tag": "Measles",
+    "patterns": [
+        "sneezing",
+        "watery_eyes",
+        "cough",
+        "fever",
+        "swollen_eyelids",
+        "tiredness",
+        "runny_nose"
+    ]
+},{
+    "tag": "Meningitis",
+    "patterns": [
+        "seizures",
+        "stiff_neck",
+        "fever",
+        "drowsiness",
+        "blotchy_rash"
+    ]
+},{
+    "tag": "Menopause",
+    "patterns": [
+        "anxiety",
+        "hair_loss",
+        "migraines",
+        "palpitations",
+        "night_sweats",
+        "tinnitus",
+        "vagnial_dryness",
+        "irritability"
+    ]
+},{
+    "tag": "Mesothelioma",
+    "patterns": [
+        "chest_pain",
+        "shortness_of_breath",
+        "fatigue",
+        "fever",
+        "swelling",
+        "constipation",
+        "diarrhoea"
+    ]
+},{
+    "tag": "Middle ear infection (otitis media)",
+    "patterns": [
+        "earache",
+        "fever",
+        "hearing_loss",
+        "tugging",
+        "cough",
+        "runny_nose",
+        "loss_of_balance"
+    ]
+},{
+    "tag": "Migraine",
+    "patterns": [
+        "hwadache",
+        "vomiting",
+        "diarrhoea",
+        "sweating",
+        "dizzines"
+    ]
+},{
+    "tag": "Miscarriage",
+    "patterns": [
+        "bleeding",
+        "crampinng"
+    ]
+},{
+    "tag": "Motor neurone disease (MND)",
+    "patterns": [
+        "weakness",
+        "muscle_cramps",
+        "stroke",
+        "difficulty_swallowing",
+        "excessive_yawning",
+        "thicker_saliva",
+        "shortness_of_breath".
+        "depression",
+        "insomnia"
+    ]
+},{
+    "tag": "Mouth cancer",
+    "patterns": [
+        "ulcers",
+        "lump",
+        "patches",
+        "dysphagia",
+        "weight_loss",
+        "numbness",
+        "difficulty_jaw_moving"
+    ]
+},{
+    "tag": "Mouth ulcer",
+    "patterns": [
+        "ulcers",
+        "loss_of_appetite",
+        "swollen_skin",
+        "tenderness"
+    ]
+},{
+    "tag": "Multiple myeloma",
+    "patterns": [
+        "tennderness",
+        "weak_bone",
+        "anaemia",
+        "nosebleeds",
+        "itching",
+        "weight_loss"
+    ]
+},{
+    "tag": "Multiple sclerosis (MS)"
+    "patterns": [
+        "fatigue",
+        "vision_problem",
+        "stiffness",
+        "numbness",
+        "tingling",
+        "mobility_problem",
+        "difficult_swallowing",
+        "depression",
+        "frequently_pee"
+    ]
+},{
+    "tag": "Mumps",
+    "patterns": [
+        "headache",
+        "joint_pain",
+        "dry_mouth",
+        "mild_pain",
+        "tiredness",
+        "loss_of_appetite",
+        "fever"
+    ]
+},{
+    "tag": "Meniere's disease",
+    "patterns": [
+        "vertigo",
+        "tinnitus",
+        "hearing_loss",
+        "dizziness"
+    ]
+}]
+}
